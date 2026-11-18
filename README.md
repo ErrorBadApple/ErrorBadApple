@@ -35,7 +35,7 @@
     <p align="center">
       <b>muׁׅsicɑׁׅ:</b> Michael Jackson, Janet Jackson, Cuarteto de Nos, Illit, Twice<br>
       <b>intׁׅerׁׅesesׁׅ:</b> JJK . KNY . MJ . Play Ponytown <br>
-      <b>Fɑׁv Muׁׅsic:</b> <a href="https://youtube.com">Scream - MJ & Janet</ a>
+      <b>Fɑׁv Muׁׅsic:</b> <a href="https://youtube.com">Scream - MJ & Janet </ a>
     </p>
   </details>
 
