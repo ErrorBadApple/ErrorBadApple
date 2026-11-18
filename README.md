@@ -32,11 +32,11 @@
       <b>intׁׅerׁׅesesׁׅ:</b> JJK . KNY . MJ . Play Ponytown <br>
       <b>Fɑׁv Muׁׅsic:</b> <a href="https://www.youtube.com/watch?v=0P4A1K4lXDo">Scream - MJ & Janet</a>
     </p>
-  </details>
+ <details>
   <summary><b>   ට   ׅ Fׁׅrieׁׅnds I loׁׅveׁׅ </b></summary>
   <br>
   <p align="center">
-    <b>Abi . Dami . Nova<b>
+    <b>Abi . Dami . Nova</b>
   </p>
-
-</div>
+</details>
+ 
