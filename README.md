@@ -33,11 +33,9 @@
       <b>Fɑׁv Muׁׅsic:</b> <a href="https://www.youtube.com/watch?v=0P4A1K4lXDo">Scream - MJ & Janet</a>
     </p>
   </details>
-
-  <br>
-
+  <summary><b>   ට   ׅ Fׁׅrieׁׅnds I loׁׅveׁׅ
   <p align="center">
-    <b>howㅤint</b>
+    Abi . Dami . Nova 
   </p>
 
 </div>
