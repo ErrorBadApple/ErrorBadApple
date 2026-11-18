@@ -1,17 +1,43 @@
 <div align="center">
 
-<br>
+  <br>
 
+  <!-- TU BANNER -->
+  <img src="https://i.postimg.cc/8s8nsKyk/06fa6f034b4c91e64ff2807093d8bbd7.jpg" width="100%">
 
-<img src="https://i.postimg.cc/8s8nsKyk/06fa6f034b4c91e64ff2807093d8bbd7.jpg" width="100%">
+  <p>
+    ─────────────────────────<br>
+    ⡞⠳⣄⣀⣠⠞⢷ ֹ۪
+  </p>
 
-───────────────────────────────────────
-              ⡞⠳⣄⣀⣠⠞⢷ ֹ۪
+  <!-- CAJITA DE PRESENTACIÓN (TABLA) -->
+  <table align="center">
+    <tr>
+      <td align="center">
+        <b> Aρׁׅpleׁׅ </b><br>
+        <i> ㅤ𝗵𝗲 / hׁׅim • ? • mׁׅj </i><br><br>
+              ۶ৎ  .  ⩋ Tɑׁׅlk toׁׅ meׁׅ ϐׁׅoy . .
+      </td>
+    </tr>
+  </table>
 
-<div align="center">
-  <a href="https://youtube.com">
-    <img src="https://shields.io▶_Scream_--_Michael_%26_Janet_Jackson-FF69B4?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
+  <br>
+
+  <!-- MENÚ DESPLEGABLE (DETAILS) -->
+  <details>
+    <summary><b>   ට   ׅ Aboׁׅutׁׅ meׁׅ  </b></summary>
+    <br>
+    <p align="center">
+      <b>muׁׅsicɑׁׅ:</b> Michael Jackson, Janet Jackson...<br>
+      <b>intׁׅerׁׅesesׁׅ:</b> JJK . KNY . MJ . Play Ponytown <br>
+      <b>Fɑׁv Muׁׅsic:</b> <a href="https://www.youtube.com/watch?v=0P4A1K4lXDo">Scream - MJ & Janet</a>
+    </p>
+  </details>
+
+  <br>
+
+  <p align="center">
+    <b>howㅤint</b>
+  </p>
+
 </div>
-
-
