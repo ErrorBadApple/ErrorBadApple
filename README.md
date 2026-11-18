@@ -16,27 +16,36 @@
       <td align="center">
         <b> Aρׁׅpleׁׅ </b><br>
         <i> ㅤ𝗵𝗲 / hׁׅim • ? • mׁׅj </i><br><br>
-              ۶ৎ  .  ⩋ Tɑׁׅlk toׁׅ meׁׅ ϐׁׅoy . .
+        ۶ৎ  .  ⩋ Tɑׁׅlk toׁׅ meׁׅ ϐׁׅoy . .
       </td>
     </tr>
   </table>
 
   <br>
 
-  <!-- MENÚ DESPLEGABLE (DETAILS) -->
+  <!-- TU GIF -->
+  <img src="https://i.postimg.cc/PJfRB36Y/Nuevo-proyecto-1-0BF6D2B.gif" width="220">
+
+  <br><br>
+
+  <!-- MENÚ DESPLEGABLE 1 (ABOUT ME) -->
   <details>
     <summary><b>   ට   ׅ Aboׁׅutׁׅ meׁׅ  </b></summary>
     <br>
     <p align="center">
       <b>muׁׅsicɑׁׅ:</b> Michael Jackson, Janet Jackson, Cuarteto de Nos, Illit, Twice<br>
       <b>intׁׅerׁׅesesׁׅ:</b> JJK . KNY . MJ . Play Ponytown <br>
-      <b>Fɑׁv Muׁׅsic:</b> <a href="https://www.youtube.com/watch?v=0P4A1K4lXDo">Scream - MJ & Janet</a>
+      <b>Fɑׁv Muׁׅsic:</b> <a href="https://youtube.com">Scream - MJ & Janet</a>
     </p>
- <details>
-  <summary><b>   ට   ׅ Fׁׅrieׁׅnds I loׁׅveׁׅ </b></summary>
-  <br>
-  <p align="center">
-    <b>Abi . Dami . Nova</b>
-  </p>
-</details>
- 
+  </details>
+
+  <!-- MENÚ DESPLEGABLE 2 (FRIENDS) -->
+  <details>
+    <summary><b>   ට   ׅ Fׁׅrieׁׅnds I loׁׅveׁׅ </b></summary>
+    <br>
+    <p align="center">
+      <b>Abi . Dami . Nova</b>
+    </p>
+  </details>
+
+</div>
