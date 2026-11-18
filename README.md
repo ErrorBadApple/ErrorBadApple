@@ -28,14 +28,14 @@
     <summary><b>   ට   ׅ Aboׁׅutׁׅ meׁׅ  </b></summary>
     <br>
     <p align="center">
-      <b>muׁׅsicɑׁׅ:</b> Michael Jackson, Janet Jackson...<br>
+      <b>muׁׅsicɑׁׅ:</b> Michael Jackson, Janet Jackson, Cuarteto de Nos, Illit, Twice<br>
       <b>intׁׅerׁׅesesׁׅ:</b> JJK . KNY . MJ . Play Ponytown <br>
       <b>Fɑׁv Muׁׅsic:</b> <a href="https://www.youtube.com/watch?v=0P4A1K4lXDo">Scream - MJ & Janet</a>
     </p>
   </details>
   <summary><b>   ට   ׅ Fׁׅrieׁׅnds I loׁׅveׁׅ
   <p align="center">
-    Abi . Dami . Nova 
+    <b>Abi . Dami . Nova<b>
   </p>
 
 </div>
