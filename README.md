@@ -30,7 +30,7 @@
 
   <!-- MENÚ DESPLEGABLE 1 (ABOUT ME) -->
   <details>
-    <summary><b>   ට   ׅ Aboׁׅutׁׅ meׁׅ  </b></summary>
+    <summary><b>   ۶ৎ  ׁׅ   ׅ  </b></summary>
     <br>
     <p align="center">
       <b>muׁׅsicɑׁׅ:</b> Michael Jackson, Janet Jackson, Cuarteto de Nos, Illit, Twice<br>
@@ -41,7 +41,7 @@
 
   <!-- MENÚ DESPLEGABLE 2 (FRIENDS) -->
   <details>
-    <summary><b>   ට   ׅ Fׁׅrieׁׅnds I loׁׅveׁׅ </b></summary>
+    <summary><b>   ට 𐂯  ׅ </b></summary>
     <br>
     <p align="center">
       <b>Abi . Dami . Nova . Mati</b>
