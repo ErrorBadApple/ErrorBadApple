@@ -88,7 +88,7 @@
 
   <!-- MENÚ DESPLEGABLE 3 (EXTRA EN TABLA) -->
   <details>
-    <summary><b>   ⩋   .   ׁׅ(⁠；⁠^⁠ω⁠^⁠） </b></summary>
+    <summary><b>         ׁׅ(⁠；⁠^⁠ω⁠^⁠） </b></summary>
     <br>
     <table align="center">
       <tr>
@@ -96,7 +96,7 @@
       </tr>
       <tr>
         <td align="center">
-          ISTP  .   Transmasc . C*H if you want . Hide + Block if I make you uncomfortable
+          ISTP  .   Transmasc . C*H if you want . H + B if I make you uncomfortable
         </td>
       </tr>
     </table>
