@@ -96,7 +96,7 @@
       </tr>
       <tr>
         <td align="center">
-          ISTP  .   Transmasc . C*H if you want . H + B if I make you uncomfortable
+          ISTP  .   Transmasc . C*H if you want . H + B if I make you uncomfortable.
         </td>
       </tr>
     </table>
