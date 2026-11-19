@@ -102,6 +102,6 @@
   </p>
 
   <!-- IMAGEN FINAL (REEMPLAZA EL LINK AQUÍ) -->
-  <img src="PON_AQUI_EL_LINK_DE_TU_NUEVA_IMAGEN" width="300">
+  <img src="https://i.postimg.cc/2ySgf2zG/5855b9df626371f75b30014d41b22528.gif" width="300">
 
 </div>
