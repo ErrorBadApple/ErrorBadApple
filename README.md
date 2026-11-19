@@ -108,6 +108,6 @@
   </p>
 
   <!-- IMAGEN FINAL (GETO) -->
-  <img src="https://postimg.cc" width="300">
+  <img src="https://i.postimg.cc/2ySgf2zG/5855b9df626371f75b30014d41b22528.gif" width="300">
 
 </div>
