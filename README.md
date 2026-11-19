@@ -39,7 +39,7 @@
       </tr>
       <tr>
         <td align="right"><b>intׁׅerׁׅesesׁׅ:</b></td>
-        <td align="left">JJK . KNY . MJ . Play Ponytown</td>
+        <td align="left">JJK . KNY . MJ . Play Ponytown . Robleis </td>
       </tr>
       <tr>
         <td align="right"><b>Fɑׁv Muׁׅsic:</b></td>
@@ -72,7 +72,36 @@
     ────────────────
   </p>
 
-  <!-- GIF FINAL -->
+  <!-- GIF MICHAEL JACKSON GRIS -->
   <img src="https://i.postimg.cc/wxr6FmxV/2ab36e2faaa119dbf26d3492572aa8bf.gif" width="300">
+
+  <!-- LÍNEA SEPARADORA 3 -->
+  <p>
+    ────────────────
+  </p>
+
+  <!-- MENÚ DESPLEGABLE 3 (EXTRA EN TABLA) -->
+  <details>
+    <summary><b>   ⩋   .   ׁׅ(⁠；⁠^⁠ω⁠^⁠） </b></summary>
+    <br>
+    <table align="center">
+      <tr>
+        <th align="center">Extׁׅrαׁׅ</th>
+      </tr>
+      <tr>
+        <td align="center">
+          ISTP  .   Transmasc . C*H if you want . Hide + Block if I make you uncomfortable
+        </td>
+      </tr>
+    </table>
+  </details>
+
+  <!-- LÍNEA SEPARADORA 4 -->
+  <p>
+    ────────────────
+  </p>
+
+  <!-- IMAGEN FINAL (REEMPLAZA EL LINK AQUÍ) -->
+  <img src="PON_AQUI_EL_LINK_DE_TU_NUEVA_IMAGEN" width="300">
 
 </div>
