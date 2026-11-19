@@ -28,24 +28,40 @@
 
   <br><br>
 
-  <!-- MENÚ DESPLEGABLE 1 (ABOUT ME) -->
+  <!-- MENÚ DESPLEGABLE 1 (ABOUT ME EN TABLA) -->
   <details>
     <summary><b>   ۶ৎ  ׁׅ   ׅ  </b></summary>
     <br>
-    <p align="center">
-      <b>muׁׅsicɑׁׅ:</b> Michael Jackson, Janet Jackson, Cuarteto de Nos, Illit, Twice<br>
-      <b>intׁׅerׁׅesesׁׅ:</b> JJK . KNY . MJ . Play Ponytown <br>
-      <b>Fɑׁv Muׁׅsic:</b> <a href="https://youtube.com">Scream - MJ & Janet </ a>
-    </p>
+    <table align="center">
+      <tr>
+        <td align="right"><b>muׁׅsicɑׁׅ:</b></td>
+        <td align="left">Michael Jackson, Janet Jackson, Cuarteto de Nos, Illit, Twice</td>
+      </tr>
+      <tr>
+        <td align="right"><b>intׁׅerׁׅesesׁׅ:</b></td>
+        <td align="left">JJK . KNY . MJ . Play Ponytown</td>
+      </tr>
+      <tr>
+        <td align="right"><b>Fɑׁv Muׁׅsic:</b></td>
+        <td align="left"><a href="https://youtube.com">Scream - MJ & Janet</a></td>
+      </tr>
+    </table>
   </details>
 
-  <!-- MENÚ DESPLEGABLE 2 (FRIENDS) -->
+  <br>
+
+  <!-- MENÚ DESPLEGABLE 2 (FRIENDS EN TABLA) -->
   <details>
     <summary><b>   ට 𐂯  ׅ </b></summary>
     <br>
-    <p align="center">
-      <b>Abi . Dami . Nova . Mati</b>
-    </p>
+    <table align="center">
+      <tr>
+        <td align="center" width="80"><b>Abi</b></td>
+        <td align="center" width="80"><b>Dami</b></td>
+        <td align="center" width="80"><b>Nova</b></td>
+        <td align="center" width="80"><b>Mati</b></td>
+      </tr>
+    </table>
   </details>
 
 </div>
