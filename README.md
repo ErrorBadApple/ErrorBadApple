@@ -16,7 +16,7 @@
       <td align="center">
         <b> Aρׁׅpleׁׅ </b><br>
         <i> ㅤ𝗵𝗲 / hׁׅim • mׁׅinoׁׅr • mׁׅj </i><br><br>
-        ۶ৎ  .  ⩋ Tɑׁׅlk toׁׅ meׁׅ ϐׁׅoy . .
+        ۶ৎ  .  ⩋ Trαׁׅnsׁׅmɑׁׅsc .
       </td>
     </tr>
   </table>
