@@ -45,7 +45,7 @@
       </tr>
       <tr>
         <td align="right"><b>intׁׅerׁׅesesׁׅ:</b></td>
-        <td align="left">JJK . KNY . MJ . Play Ponytown . Robleis </td>
+        <td align="left">JJK . KNY . MJ . Play Ponytown . Robleis . Tdi . Play with friends</td>
       </tr>
       <tr>
         <td align="right"><b>Fɑׁv Muׁׅsic:</b></td>
@@ -96,7 +96,9 @@
       </tr>
       <tr>
         <td align="center">
-          ISTP  .   Transmasc . C*H if you want . H + B if I make you uncomfortable.
+      ISTP  .   Transmasc . C*H if you want
+      H + B if I make you uncomfortable. 
+Dni if you are a very problematic person, a toxic yumeshipper or my hater. :)
         </td>
       </tr>
     </table>
