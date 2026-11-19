@@ -3,7 +3,7 @@
   <br>
 
   <!-- TU BANNER -->
-  <img src="https://postimg.cc" width="100%">
+  <img src="https://i.postimg.cc/8s8nsKyk/06fa6f034b4c91e64ff2807093d8bbd7.jpg" width="100%">
 
   <p>
     ─────────────────────────<br>
@@ -24,7 +24,7 @@
   <br>
 
   <!-- TU GIF -->
-  <img src="https://postimg.cc" width="220">
+  <img src="https://i.postimg.cc/PJfRB36Y/Nuevo-proyecto-1-0BF6D2B.gif" width="220">
 
   <br><br>
 
