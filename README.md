@@ -16,17 +16,23 @@
       <td align="center">
         <b> Aρׁׅpleׁׅ </b><br>
         <i> ㅤ𝗵𝗲 / hׁׅim • mׁׅinoׁׅr • mׁׅj </i><br><br>
-        ۶ৎ  .  ⩋ Trαׁׅnsׁׅmɑׁׅsc .
+        ۶ৎ  .  ⩋ Heׁׅaveׁׅn cαׁׅn  ωׁׅaitׁׅ.
       </td>
     </tr>
   </table>
 
-  <br>
+  <!-- LÍNEA SEPARADORA DEBAJO DE LA CAJITA -->
+  <p>
+    ────────────────
+  </p>
 
-  <!-- TU GIF -->
+  <!-- TU GIF (PUSHEEN) -->
   <img src="https://i.postimg.cc/PJfRB36Y/Nuevo-proyecto-1-0BF6D2B.gif" width="220">
 
-  <br><br>
+  <!-- LÍNEA SEPARADORA DEBAJO DEL PRIMER GIF -->
+  <p>
+    ────────────────
+  </p>
 
   <!-- MENÚ DESPLEGABLE 1 (ABOUT ME EN TABLA) -->
   <details>
@@ -101,7 +107,7 @@
     ────────────────
   </p>
 
-  <!-- IMAGEN FINAL (REEMPLAZA EL LINK AQUÍ) -->
-  <img src="https://i.postimg.cc/2ySgf2zG/5855b9df626371f75b30014d41b22528.gif" width="300">
+  <!-- IMAGEN FINAL (GETO) -->
+  <img src="https://postimg.cc" width="300">
 
 </div>
