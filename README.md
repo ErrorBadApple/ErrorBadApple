@@ -3,7 +3,7 @@
   <br>
 
   <!-- TU BANNER -->
-  <img src="https://i.postimg.cc/8s8nsKyk/06fa6f034b4c91e64ff2807093d8bbd7.jpg" width="100%">
+  <img src="https://postimg.cc" width="100%">
 
   <p>
     ─────────────────────────<br>
@@ -24,7 +24,7 @@
   <br>
 
   <!-- TU GIF -->
-  <img src="https://i.postimg.cc/PJfRB36Y/Nuevo-proyecto-1-0BF6D2B.gif" width="220">
+  <img src="https://postimg.cc" width="220">
 
   <br><br>
 
@@ -48,7 +48,10 @@
     </table>
   </details>
 
-  <br>
+  <!-- LÍNEA SEPARADORA 1 -->
+  <p>
+    ────────────────
+  </p>
 
   <!-- MENÚ DESPLEGABLE 2 (FRIENDS EN TABLA) -->
   <details>
@@ -63,5 +66,13 @@
       </tr>
     </table>
   </details>
+
+  <!-- LÍNEA SEPARADORA 2 -->
+  <p>
+    ────────────────
+  </p>
+
+  <!-- GIF FINAL -->
+  <img src="https://i.postimg.cc/wxr6FmxV/2ab36e2faaa119dbf26d3492572aa8bf.gif" width="300">
 
 </div>
