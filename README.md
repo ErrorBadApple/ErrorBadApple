@@ -180,6 +180,8 @@ Dni if you are a very problematic person, a toxic yumeshipper or my hater. :)
             Con una paciencia infinita y una voz grave que parecía calmar hasta las tempestades más violentas, su padre la acompañaba en las llanuras silenciosas del fondo marino. Cada vez que el agua a su alrededor comenzaba a hervir de energía y Aozora sentía que perdía el control, él se acercaba sin miedo, posaba su mano sobre su hombro y le hablaba con serenidad para tranquilizarla, recordándole que el mar no era su enemigo, sino una extensión de su propio corazón. Bajo su guía constante, Aozora aprendió a escuchar las mareas en lugar de luchar contra ellas. Día tras día, entrenó para contener su poder, moldear las corrientes a voluntad y dominar la letal dulzura de su canto hasta convertirlo en un arte perfecto. Al terminar su adolescencia, Aozora ya no era una niña asustada por su propia fuerza: se había transformado en una semidiosa capaz de gobernar los mares con un solo gesto, manteniendo intacta aquella calma celestial que engañaba a todos los que cruzaban su mirada.
             <br><br>
 
+       
+             
              <!-- LÍNEA SEPARADORA 8 -->
   <p>
     ────────────────
