@@ -182,23 +182,19 @@ Dni if you are a very problematic person, a toxic yumeshipper or my hater. :)
 
        
              
-             <!-- LÍNEA SEPARADORA 8 -->
-  <p>
-    ────────────────
-  </p>
-
-  <!-- MENÚ DESPLEGABLE 7 (CAPÍTULO 4) -->
+       <!-- MENÚ DESPLEGABLE 6 (LORE DE AOZORA - CAPÍTULO 4) -->
   <details>
-    <summary><b>   ۶ৎׁׅ   </b></summary>
+    <summary><b>   ׁ ۶ৎׁׅ  ׅ   </b></summary>
     <br>
     <table align="center" width="85%">
       <tr>
-        <th align="center">ׁׅ ට ׅ</th>
+        <th align="center">ׁׅ ට ׅ
       </tr>
       <tr>
         <td align="center">
-          <b>Cɑׁׅpitulo 4 :; Descubrimiento.</b>
+          <b>Cɑׁׅpitulo 4: De la Adolescencia a la Adultez.</b>
           <br><br>
+          <p align="justify">
           <p align="justify">
             Al dejar atrás las profundidades heladas de su juventud, Aozora Dvorianinova emergió finalmente hacia la orilla de un mundo desconocido. En el instante en que la espuma del mar rozó la arena bajo la luz de la luna, el velo mágico que había tejido sobre sí misma cobró vida. Su piel azul pastel se tiñó de la calidez pálida de los mortales, su cascada de cabello blanco se oscureció hasta volverse negro azabache con un flequillo suave, y aquella mirada hipnótica de depredadora divina se transformó en los ojos dulces, serenos y ligeramente confundidos de una joven humana.
             <br><br>
