@@ -3,7 +3,7 @@
   <br>
 
   <!-- TU BANNER -->
-  <img src="https://i.postimg.cc/8s8nsKyk/06fa6f034b4c91e64ff2807093d8bbd7.jpg" width="100%">
+  <img src="https://postimg.cc" width="100%">
 
   <p>
     ─────────────────────────<br>
@@ -27,7 +27,7 @@
   </p>
 
   <!-- TU GIF (PUSHEEN) -->
-  <img src="https://i.postimg.cc/PJfRB36Y/Nuevo-proyecto-1-0BF6D2B.gif" width="220">
+  <img src="https://postimg.cc" width="220">
 
   <!-- LÍNEA SEPARADORA DEBAJO DEL PRIMER GIF -->
   <p>
@@ -79,7 +79,7 @@
   </p>
 
   <!-- GIF MICHAEL JACKSON GRIS -->
-  <img src="https://i.postimg.cc/wxr6FmxV/2ab36e2faaa119dbf26d3492572aa8bf.gif" width="300">
+  <img src="https://postimg.cc" width="300">
 
   <!-- LÍNEA SEPARADORA 3 -->
   <p>
@@ -110,14 +110,14 @@ Dni if you are a very problematic person, a toxic yumeshipper or my hater. :)
   </p>
 
   <!--  GIF (GETO) -->
-  <img src="https://i.postimg.cc/2ySgf2zG/5855b9df626371f75b30014d41b22528.gif" width="300">
+  <img src="https://postimg.cc" width="300">
 
   <!-- LÍNEA SEPARADORA 5 -->
   <p>
     ────────────────
   </p>
 
-  <!-- MENÚ DESPLEGABLE 4 (LORE DE AOZORA EN TABLA) -->
+  <!-- MENÚ DESPLEGABLE 4 (LORE DE AOZORA - CAPÍTULO 1) -->
   <details>
     <summary><b>   ۶ৎׁׅ   </b></summary>
     <br>
@@ -149,4 +149,34 @@ Dni if you are a very problematic person, a toxic yumeshipper or my hater. :)
     </table>
   </details>
 
-</div>
+  <!-- LÍNEA SEPARADORA 6 -->
+  <p>
+    ────────────────
+  </p>
+
+  <!-- MENÚ DESPLEGABLE 5 (LORE DE AOZORA - CAPÍTULO 2) -->
+  <details>
+    <summary><b>   ׁׅ   ට   ׅ   </b></summary>
+    <br>
+    <table align="center" width="85%">
+      <tr>
+        <th align="center">۶ৎ     ׅ   Loׁׅreׁׅ  de Aoׁׅzorαׁׅ.</th>
+      </tr>
+      <tr>
+        <td align="center">
+          <b>Cɑׁׅpitulo 2: De la Infancia a la Adolescencia.</b>
+          <br><br>
+          <p align="justify">
+            A medida que los años pasaban en las profundidades del norte, la belleza de la pequeña Aozora Dvorianinova comenzaba a eclipsar incluso los tesoros más antiguos del abismo. Durante las reuniones de su noble estirpe, los ancianos y familiares de la casa Dvorianinova se detenían a contemplar su piel de porcelana azul pastel y el brillo etéreo de su largo cabello blanco, murmurando con admiración y reverencia ante su presencia:
+            <br><br>
+            <i>"La Diosa Venus te dio su bendición y te convirtió en la heredera de su belleza."</i>
+            <br><br>
+            Aozora recibía aquellos elogios con su característica serenidad. No había arrogancia en ella; incluso siendo apenas una niña, poseía una calma tan pura y envolvente que quienes la rodeaban sentían una paz inexplicable con solo mirarla. Sin embargo, detrás de aquella apariencia angelical, una fuerza inmensa y salvaje comenzaba a despertar en su interior.
+            <br><br>
+            Cuando Aozora alcanzó los 25 años —entrando en la etapa equivalente a una adolescencia humana—, su sangre de semidiosa reclamó su lugar. Sus poderes sobre los océanos dejaron de ser un simple susurro para convertirse en una tormenta latente. De pronto, sus emociones más sutiles provocaban remolinos en las profundidades, las corrientes abisales se agitaban al ritmo de su respiración y su canto comenzaba a resonar con una frecuencia hipnótica capaz de hacer temblar los corales.
+            <br><br>
+            Aquella etapa estuvo marcada por el miedo y la incertidumbre. Aozora sentía que el océano entero latía dentro de sus venas y temía que, en un descuido, su magia divina colapsara y destruyera el hogar que tanto amaba. Fue en esos momentos de angustia cuando la figura de su padre se volvió su ancla más firme.
+            <br><br>
+            Con una paciencia infinita y una voz grave que parecía calmar hasta las tempestades más violentas, su padre la acompañaba en las llanuras silenciosas del fondo marino. Cada vez que el agua a su alrededor comenzaba a hervir de energía y Aozora sentía que perdía el control, él se acercaba sin miedo, posaba su mano sobre su hombro y le hablaba con serenidad para tranquilizarla, recordándole que el mar no era su enemigo, sino una extensión de su propio corazón. Bajo su guía constante, Aozora aprendió a escuchar las mareas en lugar de luchar contra ellas. Día tras día, entrenó para contener su poder, moldear las corrientes a voluntad y dominar la letal dulzura de su canto hasta convertirlo en un arte perfecto. Al terminar su adolescencia, Aozora ya no era una niña asustada por su propia fuerza: se había transformado en una semidiosa capaz de gobernar los mares con un solo gesto, manteniendo intacta aquella calma celestial que engañaba a todos los que cruzaban su mirada.
+            <br><br>
+            
