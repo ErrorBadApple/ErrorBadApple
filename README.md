@@ -3,7 +3,7 @@
   <br>
 
   <!-- TU BANNER -->
-  <img src="https://postimg.cc" width="100%">
+  <img src="https://i.postimg.cc/8s8nsKyk/06fa6f034b4c91e64ff2807093d8bbd7.jpg" width="100%">
 
   <p>
     ─────────────────────────<br>
@@ -27,7 +27,7 @@
   </p>
 
   <!-- TU GIF (PUSHEEN) -->
-  <img src="https://postimg.cc" width="220">
+  <img src="https://i.postimg.cc/PJfRB36Y/Nuevo-proyecto-1-0BF6D2B.gif" width="220">
 
   <!-- LÍNEA SEPARADORA DEBAJO DEL PRIMER GIF -->
   <p>
@@ -79,7 +79,7 @@
   </p>
 
   <!-- GIF MICHAEL JACKSON GRIS -->
-  <img src="https://postimg.cc" width="300">
+  <img src="https://i.postimg.cc/wxr6FmxV/2ab36e2faaa119dbf26d3492572aa8bf.gif" width="300">
 
   <!-- LÍNEA SEPARADORA 3 -->
   <p>
@@ -110,7 +110,7 @@ Dni if you are a very problematic person, a toxic yumeshipper or my hater. :)
   </p>
 
   <!--  GIF (GETO) -->
-  <img src="https://postimg.cc" width="300">
+  <img src="https://i.postimg.cc/2ySgf2zG/5855b9df626371f75b30014d41b22528.gif" width="300">
 
   <!-- LÍNEA SEPARADORA 5 -->
   <p>
@@ -160,7 +160,7 @@ Dni if you are a very problematic person, a toxic yumeshipper or my hater. :)
     <br>
     <table align="center" width="85%">
       <tr>
-        <th align="center">۶ৎ     ׅ   Loׁׅreׁׅ  de Aoׁׅzorαׁׅ.</th>
+        <th align="center">۶ৎ     ׅ   
       </tr>
       <tr>
         <td align="center">
