@@ -179,4 +179,39 @@ Dni if you are a very problematic person, a toxic yumeshipper or my hater. :)
             <br><br>
             Con una paciencia infinita y una voz grave que parecía calmar hasta las tempestades más violentas, su padre la acompañaba en las llanuras silenciosas del fondo marino. Cada vez que el agua a su alrededor comenzaba a hervir de energía y Aozora sentía que perdía el control, él se acercaba sin miedo, posaba su mano sobre su hombro y le hablaba con serenidad para tranquilizarla, recordándole que el mar no era su enemigo, sino una extensión de su propio corazón. Bajo su guía constante, Aozora aprendió a escuchar las mareas en lugar de luchar contra ellas. Día tras día, entrenó para contener su poder, moldear las corrientes a voluntad y dominar la letal dulzura de su canto hasta convertirlo en un arte perfecto. Al terminar su adolescencia, Aozora ya no era una niña asustada por su propia fuerza: se había transformado en una semidiosa capaz de gobernar los mares con un solo gesto, manteniendo intacta aquella calma celestial que engañaba a todos los que cruzaban su mirada.
             <br><br>
-            
+
+             <!-- LÍNEA SEPARADORA 8 -->
+  <p>
+    ────────────────
+  </p>
+
+  <!-- MENÚ DESPLEGABLE 7 (CAPÍTULO 4) -->
+  <details>
+    <summary><b>   ۶ৎׁׅ   </b></summary>
+    <br>
+    <table align="center" width="85%">
+      <tr>
+        <th align="center">ׁׅ ට ׅ</th>
+      </tr>
+      <tr>
+        <td align="center">
+          <b>Cɑׁׅpitulo 4 :; Descubrimiento.</b>
+          <br><br>
+          <p align="justify">
+            Al dejar atrás las profundidades heladas de su juventud, Aozora Dvorianinova emergió finalmente hacia la orilla de un mundo desconocido. En el instante en que la espuma del mar rozó la arena bajo la luz de la luna, el velo mágico que había tejido sobre sí misma cobró vida. Su piel azul pastel se tiñó de la calidez pálida de los mortales, su cascada de cabello blanco se oscureció hasta volverse negro azabache con un flequillo suave, y aquella mirada hipnótica de depredadora divina se transformó en los ojos dulces, serenos y ligeramente confundidos de una joven humana.
+            <br><br>
+            <i>Así nació Umi no Miya.</i>
+            <br><br>
+            Para una semidiosa que había pasado nueve décadas rodeada por el silencio abisal y la corriente eterna del océano, la superficie era un universo abrumador y fascinante. Al principio, cada detalle cotidiano de los humanos le resultaba un misterio digno de admiración: la calidez del sol sobre su piel, el sonido del viento entre los árboles, el brillo artificial de las luces nocturnas en las ciudades costeras y el ritmo apresurado con el que vivían los mortales.
+            <br><br>
+            Durante los meses siguientes, mientras terminaba de adaptarse justo al alcanzar sus 100 años —entrando finalmente en la plenitud de una mujer joven de 20 años en su estirpe—, Umi no Miya aprendió a caminar entre la multitud sin revelar jamás su verdadera naturaleza. Siempre vestida con prendas blancas ligeras y delicados encajes que evocaban la espuma de su hogar, despertaba la curiosidad de todos a su alrededor. Tenía un aire aristocrático imposible de ocultar y una inocencia genuina que hacía que cualquiera quisiera protegerla, sin sospechar que bajo esa apariencia frágil latía el poder capaz de hundir flotas enteras.
+            <br><br>
+            Sin embargo, el océano nunca la abandonó por completo. Incluso en tierra firme, Umi no Miya seguía rodeada por una atmósfera etérea, como si pequeñas medusas invisibles y destellos de luz azulada danzaran a su alrededor cada vez que caía la noche. Por las tardes, solía acercarse a los muelles solitarios o a los acantilados frente al mar para sentir la brisa salada y recordar las palabras de su madre, Serafina.
+            <br><br>
+            Aunque en la superficie su instinto de caza permanecía dormido y observaba a los hombres con una mezcla de curiosidad y distancia, Aozora sabía que aquel viaje apenas comenzaba. Había aprendido a vivir como una humana, a sonreír con dulzura y a guardar los secretos del abismo tras la máscara inocente de Umi no Miya… pero su corazón seguía esperando el momento en que alguien lograra ver a través del velo.
+          </p>
+        </td>
+      </tr>
+    </table>
+  </details>
+ 
